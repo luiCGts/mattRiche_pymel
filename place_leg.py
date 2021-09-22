@@ -1,7 +1,7 @@
 '''
 place_leg.py
 part of an modular auto-rig module
-contain class for building simple ik leg joint chain
+contain class for building simple ik leg joint chains
 
 import module_leg
 import module_leg.place_leg as pl
